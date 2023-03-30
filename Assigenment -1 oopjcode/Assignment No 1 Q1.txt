@@ -1,0 +1,15 @@
+Download and install oracle JDK on your machine and explore JDK
+home & JRE home directory.
+C:\Program Files\Java\jdk1.8.0_361-home dirctries
+C:\Program Files\Java\jdk1.8.0_361\bin-java delepmeny kit-java
+                                                          javac
+                                                          javap
+C:\Program Files\Java\jdk1.8.0_361\include-jdwpTransport
+                                           jvmticmlr
+C:\Program Files\Java\jdk1.8.0_361\legal
+C:\Program Files\Java\jdk1.8.0_361\lib- contain jar file- tools
+                                                        jconsole
+C:\Program Files\Java\jdk1.8.0_361\jre\bin-Executable files for tools and libraries-attach.dll
+                                                                                    dcpr.dll
+C:\Program Files\Java\jdk1.8.0_361\jre\lib-Code libraries, property settings, and resource files-ext,jfr
+C:\Users\Acer\Desktop\src\java\lang-source contain java API & lang .java file 
